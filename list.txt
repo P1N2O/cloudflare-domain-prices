@@ -1,0 +1,9 @@
+com:7.85
+net:9.77
+org:9.93
+school:20.00
+plus:20.00
+space:15.00
+xyz:8.00
+live:15.00
+company:5.00
