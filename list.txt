@@ -119,7 +119,6 @@ host:65
 house:20
 immo:20
 immobilien:20
-io:45
 industries:20
 info:10.84
 ink:19
@@ -127,6 +126,7 @@ institute:13
 insure:33
 international:13
 investments:66
+io:45
 irish:10
 jetzt:13
 jewelry:33
