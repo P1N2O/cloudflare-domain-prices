@@ -260,6 +260,11 @@ This list is aggregated from prices shown via the [Cloudflare Registrar](https:/
 
 For programmatic use, there is a text file named `list.txt` in the format of `tld:price`.
 
+#### Disclaimer
+
+There *is* a big asterisk here.  In general, all [gTLDs](https://newgtlds.icann.org/en/applicants/global-support/faqs/faqs-en) have to be fair about the pricing they charge registrars. BUT, ccTLDs (country code TLDs) like `.io` **are NOT required to be fair about the pricing** they charge registrars. It is very likely that CF's `.io` price is higher than other registrars because the io registry decided to give other registrars a huge discount, or hiked the price Cloudflare pays because they don't like CF or something of the sorts. See [the discussion about this](https://community.cloudflare.com/t/io-domain-price-not-wholesale-price/54709?u=judge).
+
+
 #### Terminology: 
 
 - **Registry**: https://icannwiki.org/Registry This is who actually runs a TLD. They choose how much to charge registrars for purchasing domains for their TLDs.
