@@ -126,7 +126,6 @@ This list is in **US Dollars**.
 |house|20|
 |immo|20|
 |immobilien|20|
-|io|45|
 |industries|20|
 |info|10.84|
 |ink|19|
@@ -134,6 +133,7 @@ This list is in **US Dollars**.
 |insure|33|
 |international|13|
 |investments|66|
+|io|45|
 |irish|10|
 |jetzt|13|
 |jewelry|33|
